@@ -19,7 +19,7 @@
 使用者必須輸入水庫名稱來查詢，利用api的內容判斷是否可能缺水，最後給出提醒。
 
 ![image](https://github.com/loli-000/final-project/blob/main/%E6%93%B7%E5%8F%96.PNG)  
-4.
+4.API網站:  
 https://opendata.cwb.gov.tw/index  
 https://fhy.wra.gov.tw/WraApi#!/ReservoirApi/ReservoirApi_Station  
 https://fhy.wra.gov.tw/WraApi/v1/Reservoir/Station?$select=StationNo%20%2CBasinName%2CStationName%20  
